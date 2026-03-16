@@ -1,0 +1,13 @@
+<widget id="com.example.app" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>YourAppName</name>
+    <description>YourAppDescription</description>
+    <author email="your.email@example.com" href="http://example.com">Your Name</author>
+    <content src="index.html" />
+    <platform name="ios">
+        <allow-intent href="http://*/*" />
+        <allow-intent href="https://*/*" />
+    </platform>
+    <preference name="cordova-ios-version" value="6.2.0" />
+    <preference name="target-device" value="universal" />
+    <preference name="deployment-target" value="10.0" />
+</widget>
