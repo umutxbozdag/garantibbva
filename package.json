@@ -1,0 +1,1 @@
+{\n  "name": "my-cordova-project",\n  "version": "1.0.0",\n  "description": "A Cordova project",\n  "dependencies": {\n    "cordova": "^10.0.0",\n    "cordova-plugin-device": "^2.0.3",\n    "cordova-plugin-console": "^1.1.0",\n    "cordova-plugin-whitelist": "^1.3.4"\n  },\n  "devDependencies": {\n    "cordova-android": "^9.0.0",\n    "cordova-ios": "^6.1.1"\n  }\n}
